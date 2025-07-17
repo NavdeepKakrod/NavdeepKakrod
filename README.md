@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NavdeepKakrod&label=Profile%20views&color=0e75b6&style=flat" alt="NavdeepKakrod" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NavdeepKakrod" alt="Navdeep" /></a> </p>
 
-- 🔭 I’m currently working on [FastFest](https://github.com/NavdeepKakrod/FastFest)
+- 🔭 I’m currently working on [MNNIT-Path-Finder](https://github.com/NavdeepKakrod/MNNIT-Path-Finder)
 
 - 📫 How to reach me **navdeepkakrod89@gmail.com**
 
